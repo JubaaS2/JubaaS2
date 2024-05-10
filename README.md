@@ -1,16 +1,16 @@
-### Hi there 👋
+### *Hello!! welcome everyone to my profile* 💙 😼
 
-<!--
-**JubaaS2/JubaaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_My name is jully_
 
-Here are some ideas to get you started:
+- I am studying and learning online;
+- I'm delving into the JavaScript language;
+- And I will be using this space to organize and share my projects that are developed;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### *You can contact me on my 📫 and twitter*
+  
+  _Jubas2games@gmail.com_
+
+   _@titiajujuXL_
+
+  ![](https://media1.tenor.com/m/xrzpktfcomUAAAAd/ateez-san.gif)
+ 
